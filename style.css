@@ -1,0 +1,104 @@
+#container{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+
+}
+
+#header {
+text-align: center;
+
+}
+#main {
+    text-align: center;
+}
+span1 { font-style: revert}
+span2 { font-style: italic}
+span3 { font-style: unset}
+
+h1 {color: black;
+font-style: oblique;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 0px;
+    text-align:center;
+    font-size: 50px;
+}
+
+h3 {color: whitesmoke;
+    text-align: center;
+     font-size: large;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    background-color: crimson;
+}
+content { 
+    width: 800px;
+    height: 600px
+    content-box;
+}
+
+
+#pic {
+    width: 800px;
+    padding-top: 20px;
+    color: #617140;
+    background-image: url('coney2-2.jpg');
+    border-radius: 400px;
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+h4 {
+    color: black;
+    text-align: center;
+    font-size: medium;
+
+    padding: 5px;
+    width: 400px;
+}
+
+h5 {
+    color: black;
+    text-align: center;
+    font-size: medium;
+
+    padding: 5px;
+    width: 400px;
+}
+h6 {
+    color: black;
+    text-align: center;
+    font-size: medium;
+    
+    padding: 5px;
+    width: 400px;
+}
+#footer {
+    height: 100px;
+    align-items: center;
+    background-color: black;
+    ;
+  }
+#p1 {
+font-size: medium;
+    font-style: initial;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: lightseagreen;
+    border-radius: 50%;
+    padding: 5px;
+    display: inline-block;
+    align-content: center;
+    align-items: center;
+}
